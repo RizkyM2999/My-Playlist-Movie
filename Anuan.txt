@@ -49,7 +49,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="Boomerang.Id" tvg-logo="https://i.postimg.cc/4d0FTXq3/CARTOONITO.jpg" group-title="16. KIDS",Cartoonito
+#EXTINF:0 tvg-id="Boomerang.Id" tvg-logo="https://i.imgur.com/Sp0zelF.png" group-title="16. KIDS",Boomerang HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -72,7 +72,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://i.postimg.cc/0QZxP1nK/ANIMAX.jpg" group-title="16. KIDS",Animax HD
+#EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="16. KIDS",Animax HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
