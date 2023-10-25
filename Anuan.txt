@@ -48,6 +48,15 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTINF:0 tvg-id="Nick.Id" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="16. KIDS",Nickelodeon
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#EXTGRP:KIDS
+#EXTINF:0 tvg-id="Boomerang.Id" tvg-logo="https://i.postimg.cc/4d0FTXq3/CARTOONITO.jpg" group-title="16. KIDS",Cartoonito
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
 #EXTINF:0 tvg-id="CartoonNetwork.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="16. KIDS",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
@@ -63,6 +72,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://i.postimg.cc/0QZxP1nK/ANIMAX.jpg" group-title="16. KIDS",Animax HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTINF:0 tvg-id="2. NATIONALGeographic.Id" tvg-logo="https://i.postimg.cc/mrPDfSc1/SSN-TIVI-2023-09-06-T172728-049.png" group-title="8. KNOWLEDGE ",National Geographic PT
 #https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=49268&extension=ts&play_token=szpRYz8L9c
@@ -73,3 +88,4 @@ http://kuchini.site:8080/F30140/f3de2280/1530
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="8. KNOWLEDGE ",BBC Earth HD
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
