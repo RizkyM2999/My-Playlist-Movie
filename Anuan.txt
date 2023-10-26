@@ -42,7 +42,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-url="" tvg-logo="https://i.imgur.com/8p8LO79.png" group-title="HBO GRUP",CINEMAX HD
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=973"
+#EXTM3U x-url-tvg="https://epg.pw/api/epg.xml?channel_id=973"
 #EXTINF:-1 tvg-id="ParamountNetworkIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="HBO GRUP",Paramount Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
