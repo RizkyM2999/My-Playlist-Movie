@@ -42,7 +42,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-url="" tvg-logo="https://i.imgur.com/8p8LO79.png" group-title="HBO GRUP",CINEMAX HD
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-id="ParamountNetworkIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies & Hiburan",PARAMOUNT HD
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=973"
+#EXTINF:-1 tvg-id="ParamountNetworkIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="HBO GRUP",Paramount Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
@@ -94,3 +95,4 @@ http://kuchini.site:8080/F30140/f3de2280/1530
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="8. KNOWLEDGE ",BBC Earth HD
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
